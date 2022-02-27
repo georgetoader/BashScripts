@@ -1,2 +1,2 @@
 # BashScripts
-A collection of simple but useful Bash scripts, as part of training/practice.
+Collection of Bash scripts that I wrote mostly for fun and training. 
